@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App de Gorjeta do Luiz</string>
+    <string name="valor_do_serviço">Valor do serviço</string>
+    <string name="como_foi_o_atendimento">Como foi o atendimento?</string>
+    <string name="incrivel_15">Incrivel (15%)</string>
+    <string name="bom_10">Bom (10%)</string>
+    <string name="ok_5">OK (5%)</string>
+    <string name="pode_melhorar_0">pode melhorar (0%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="valor_da_gorjeta">valor da gorjeta: %s</string>
+    <string name="arredondar_gorjeta_para_cima">Arredondar gorjeta para cima?</string>
+</resources>
